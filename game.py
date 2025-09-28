@@ -1,13 +1,4 @@
-"""
-Faça um jogo para o usuário advinhar qual a palavra secreta. 
-Você vai propor uma palavra secreta qualquer e vai dar a possibilidade para o usuário digitar apenas uma letras.
-Qual o usuário digitar uma letra, você vai conferir se a letra digitada está na palavra secreta.
-Se a letra digitada estiver na palavra secreta exiba a letra
-se a letra digitada não estiver na palavra secreta exiba *
-Faça a contagem de tentativas do usuário.
-"""
-
-palavra_secreta = "abacaxi"
+palavra_secreta = "laranja"
 letras_acertadas = ""
 tentativas = 0
 print("Jogo da Forca")
